@@ -2,4 +2,4 @@
 PDF预览
 
 ## 使用方法
-index.html?file=https://你的办公文件.pdf
+http://localhost:63342/PdfViewer/index.html?file=你的办公文件.pdf
